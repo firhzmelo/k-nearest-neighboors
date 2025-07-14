@@ -4,5 +4,5 @@ In this project i implemented the K-Nearest-Neighbors Classifier (KNN), this was
 
 References
 ---
-https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/
+https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/  
 data: https://www.kaggle.com/datasets/saurabh00007/diabetescsv/code
